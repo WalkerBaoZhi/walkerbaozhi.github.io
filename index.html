@@ -1,1 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=11" id="mixia_vpid">
+    <title>(⁠*⁠˘⁠︶⁠˘⁠*⁠)⁠.⁠｡⁠*⁠WalkerBaoZhi</title>
+    <link rel="stylesheet" type="text/css" href="./css/style.css">
+</head>
+<body>
+    <canvas id="background"></canvas>
+    <div class="content">
+        <div class="title">WalkerBaoZhi</div>
+        <hr class="hr">
+        <div class="container">
+        <!--js随机话语-->
+        <span id="speaker" class="speaker"></span>
+    </div>
+        <hr class="hr">
+        <nav class="cover-navigation cover-navigation--primary cover-navigation-border">
+            <ul class="navigation">
+                <li class="navigation__item"><a href="./scan" target="_blank" title="">扫雷</a></li>
+                <li class="navigation__item"><a href="./starsky" target="_blank" title="">星空</a></li>
+                <li class="navigation__item"><a href="./sheep" target="_blank" title="">羊了个羊</a></li>
+                <li class="navigation__item"><a href="./light" target="_blank" title="">曙光</a></li>
+                <li class="navigation__item"><a href="./eat" target="_blank" title="">饿死了！吃什么？</a></li>
+                <li class="navigation__item"><a href="./msg" target="_blank" title="">临时留言板</a></li>
+                <li class="navigation__item"><a href="./wood-fish" target="_blank" title="">电子木鱼</a></li>
+                <li class="navigation__item"><a href="./GL" target="_blank" title="">WebGL</a></li>
+                <li class="navigation__item"><a href="./chat" target="_blank" title="">【废弃】ChatGPT</a></li>
+                <li class="navigation__item"><a href="./PS/index.php" target="_blank" title="">在线PS</a></li>
+                <li class="navigation__item"><a href="./word-rain" target="_blank" title="">文字雨</a></li>
+                <li class="navigation__item"><a href="./886" target="_blank" title="">拜拜跑路了</a></li>
+                <li class="navigation__item"><a href="./sky-high" target="_blank" title="">天空到底有多高？</a></li>
+                <li class="navigation__item"><a href="./silk" target="_blank" title="">【舒服】对称画</a></li>
+                <li class="navigation__item"><a href="./Win12/desktop.html" target="_blank" title="">Win12</a></li>
+                <li class="navigation__item"><a href="./Webdroid" target="_blank" title="">网页版安卓</a></li>
+                <li class="navigation__item"><a href="./download/index.html" target="_blank" title="">下载库</a></li>
+                <li class="navigation__item"><a href="./listen" target="_blank" title="">听点什么</a></li>
 
+
+            </ul>
+        </nav>
+<br>
+<br>
+<br>
+<br>
+        <div class="nav01_fooder btm">WalkerBaoZhi @2023</div>
+        </div>
+    
+<script>
+//代码雨爱心开始
+// 获取Canvas元素
+  const canvas = document.getElementById("background");
+
+  // 设置Canvas大小为全屏
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight;
+
+  // 设置Canvas样式为固定位置和z-index
+  canvas.style.position = "fixed";
+  canvas.style.top = "0";
+  canvas.style.left = "0";
+  canvas.style.zIndex = "-1";
+
+  // 在Canvas上渲染动态的代码雨背景
+  // 使用第三方库或者自行实现粒子系统
+
+  // 监听鼠标点击事件
+  canvas.addEventListener("click", (event) => {
+    // 获取鼠标点击坐标
+    const x = event.clientX;
+    const y = event.clientY;
+
+    // 在点击位置生成小爱心
+    // 使用SVG图形或者Canvas API来实现
+  });
+//代码雨爱心结束
+//数量
+var num = Math.floor(Math.random() * 9) + 1;
+var want = document.getElementById('speaker');
+console.log(num);
+//句子
+if (num == 1){
+    want.innerHTML = "鲁迅言 <br>「摆烂乎,何乐而不为」";
+}else if (num == 2){
+    want.innerHTML = "「WalkerBaoZhi.top <br>好有病的域名";
+}else if (num == 3){
+    want.innerHTML = "极简风格";
+}else if (num == 4){
+    want.innerHTML = "oh shit my Web is so 烂";
+}else if (num == 5){
+    want.innerHTML = "快来找我play <br> 我这里还蛮大的哟";
+}else if (num == 6){
+    want.innerHTML = "哪个傻*会买 <br>「top域名自用」<br>原来是我没事了";
+}else if (num == 8){
+    want.innerHTML = "(⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)⁠✧⁠*⁠。";
+}else if (num == 9){
+    want.innerHTML = "感觉少了点啥";
+}
+</script>
+</body>
+</html>
