@@ -1,0 +1,485 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "http://www.secaibi.com/howbigisspace/",
+            "path": "index.html",
+            "saved": true,
+            "size": 29018,
+            "children": [
+                {
+                    "url": "http://www.secaibi.com/howbigisspace/_/img/bg/b1.jpg",
+                    "path": "img/b1.jpeg",
+                    "saved": true,
+                    "size": 131648
+                },
+                {
+                    "url": "http://www.secaibi.com/howbigisspace/_/img/bg/b2.jpg",
+                    "saved": false
+                },
+                {
+                    "url": "http://www.secaibi.com/howbigisspace/_/img/bg/b3.jpg",
+                    "saved": false
+                },
+                {
+                    "url": "http://www.secaibi.com/howbigisspace/_/img/bg/b4.jpg",
+                    "saved": false
+                },
+                {
+                    "url": "http://www.secaibi.com/howbigisspace/_/img/bg/b5.jpg",
+                    "saved": false
+                },
+                {
+                    "url": "http://www.secaibi.com/howbigisspace/_/img/bg/b6.jpg",
+                    "saved": false
+                },
+                {
+                    "url": "http://www.secaibi.com/howbigisspace/_/img/bg/b7.jpg",
+                    "saved": false
+                },
+                {
+                    "url": "http://www.secaibi.com/howbigisspace/_/img/bg/b8.jpg",
+                    "saved": false
+                },
+                {
+                    "url": "http://www.secaibi.com/howbigisspace/_/img/bg/b9.jpg",
+                    "saved": false
+                },
+                {
+                    "url": "http://www.secaibi.com/howbigisspace/_/img/bg/b10.jpg",
+                    "saved": false
+                },
+                {
+                    "url": "http://www.secaibi.com/howbigisspace/_/img/bg/earth-new.png",
+                    "saved": false
+                },
+                {
+                    "url": "http://www.secaibi.com/howbigisspace/_/img/bbc/footer-credit.png",
+                    "saved": false
+                },
+                {
+                    "url": "http://www.secaibi.com/howbigisspace/_/img/nanjingui/logo.png",
+                    "saved": false
+                },
+                {
+                    "url": "http://www.secaibi.com/howbigisspace/_/img/secaibi/logo.png",
+                    "saved": false
+                },
+                {
+                    "url": "http://www.secaibi.com/howbigisspace/_/js/pace.js",
+                    "path": "js/pace.js",
+                    "saved": true,
+                    "size": 12057
+                },
+                {
+                    "url": "http://www.secaibi.com/howbigisspace/_/js/modernizr.js",
+                    "path": "js/modernizr.js",
+                    "saved": true,
+                    "size": 10361
+                },
+                {
+                    "url": "http://www.secaibi.com/howbigisspace/_/js/jquery-1.11.0.min.js",
+                    "path": "js/jquery-1.11.0.min.js",
+                    "saved": true,
+                    "size": 96381
+                },
+                {
+                    "url": "http://www.secaibi.com/howbigisspace/_/js/greensock/TweenMax.min.js",
+                    "path": "js/TweenMax.min.js",
+                    "saved": true,
+                    "size": 91908
+                },
+                {
+                    "url": "http://www.secaibi.com/howbigisspace/_/js/greensock/easing/EasePack.min.js",
+                    "path": "js/EasePack.min.js",
+                    "saved": true,
+                    "size": 5093
+                },
+                {
+                    "url": "http://www.secaibi.com/howbigisspace/_/js/greensock/jquery.gsap.min.js",
+                    "path": "js/jquery.gsap.min.js",
+                    "saved": true,
+                    "size": 2656
+                },
+                {
+                    "url": "http://www.secaibi.com/howbigisspace/_/js/jquery.superscrollorama.js",
+                    "path": "js/jquery.superscrollorama.js",
+                    "saved": true,
+                    "size": 15818
+                },
+                {
+                    "url": "http://www.secaibi.com/howbigisspace/_/js/func.min.js",
+                    "path": "js/func.min.js",
+                    "saved": true,
+                    "size": 33033
+                },
+                {
+                    "url": "http://www.secaibi.com/howbigisspace/_/css/pace.css",
+                    "path": "css/pace.css",
+                    "saved": true,
+                    "size": 1000
+                },
+                {
+                    "url": "http://www.secaibi.com/howbigisspace/_/css/main.css",
+                    "path": "css/main.css",
+                    "saved": true,
+                    "size": 30473,
+                    "children": [
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/mothball/bg.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/mothball/i.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/tooltip.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/blq-sprite_alpha.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/blq-arrows.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/ie6_upgrade_icons.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/spinner.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/bbccookies/cookie_prompt_sprite.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/promo_spinner.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/degraded_content_icon.gif",
+                            "saved": false
+                        }
+                    ]
+                },
+                {
+                    "url": "http://www.secaibi.com/howbigisspace/_/css/style.css",
+                    "path": "css/style.css",
+                    "saved": true,
+                    "size": 32210,
+                    "children": [
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/elements/ship.png",
+                            "path": "img/ship.png",
+                            "saved": true,
+                            "size": 11441
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/elements/radiation-warning.png",
+                            "path": "img/radiation-warning.png",
+                            "saved": true,
+                            "size": 1094
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/elements/flame-sprite.png",
+                            "path": "img/flame-sprite.png",
+                            "saved": true,
+                            "size": 6675
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/bg/stars.png",
+                            "path": "img/stars.png",
+                            "saved": true,
+                            "size": 18272
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/elements/hudsprite.png",
+                            "path": "img/hudsprite.png",
+                            "saved": true,
+                            "size": 641
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/bbc/future-header.png",
+                            "path": "img/future-header.png",
+                            "saved": true,
+                            "size": 8438
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/bbc/future-logo.png",
+                            "path": "img/future-logo.png",
+                            "saved": true,
+                            "size": 1460
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/elements/space-race-logo.png",
+                            "path": "img/space-race-logo.png",
+                            "saved": true,
+                            "size": 26813
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/bg/b1-tile.jpg",
+                            "path": "img/b1-tile.jpg",
+                            "saved": true,
+                            "size": 9123
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/bg/b2-tile.jpg",
+                            "path": "img/b2-tile.jpg",
+                            "saved": true,
+                            "size": 4928
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/bg/b2.jpg",
+                            "path": "img/b2.jpg",
+                            "saved": true,
+                            "size": 78511
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/bg/b3-tile.jpg",
+                            "path": "img/b3-tile.jpg",
+                            "saved": true,
+                            "size": 3065
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/bg/b3.jpg",
+                            "path": "img/b3.jpg",
+                            "saved": true,
+                            "size": 49260
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/bg/b4-tile.jpg",
+                            "path": "img/b4-tile.jpg",
+                            "saved": true,
+                            "size": 3615
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/bg/b4.jpg",
+                            "path": "img/b4.jpg",
+                            "saved": true,
+                            "size": 51338
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/bg/b5-tile.jpg",
+                            "path": "img/b5-tile.jpg",
+                            "saved": true,
+                            "size": 2324
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/bg/b5.jpg",
+                            "path": "img/b5.jpg",
+                            "saved": true,
+                            "size": 47927
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/bg/b6-tile.jpg",
+                            "path": "img/b6-tile.jpg",
+                            "saved": true,
+                            "size": 2324
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/bg/b6.jpg",
+                            "path": "img/b6.jpg",
+                            "saved": true,
+                            "size": 65064
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/bg/b7-tile.jpg",
+                            "path": "img/b7-tile.jpg",
+                            "saved": true,
+                            "size": 2324
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/bg/b7.jpg",
+                            "path": "img/b7.jpg",
+                            "saved": true,
+                            "size": 97478
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/bg/b8-tile.jpg",
+                            "path": "img/b8-tile.jpg",
+                            "saved": true,
+                            "size": 3151
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/bg/b8.jpg",
+                            "path": "img/b8.jpg",
+                            "saved": true,
+                            "size": 152186
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/bg/b9-tile.jpg",
+                            "path": "img/b9-tile.jpg",
+                            "saved": true,
+                            "size": 2752
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/bg/b9.jpg",
+                            "path": "img/b9.jpg",
+                            "saved": true,
+                            "size": 282000
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/bg/b10-tile.jpg",
+                            "path": "img/b10-tile.jpg",
+                            "saved": true,
+                            "size": 3076
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/bg/b10.jpg",
+                            "path": "img/b10.jpg",
+                            "saved": true,
+                            "size": 378077
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/bg/earth-new-tile.png",
+                            "path": "img/earth-new-tile.png",
+                            "saved": true,
+                            "size": 2251
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/bg/earth-new.png",
+                            "path": "img/earth-new.png",
+                            "saved": true,
+                            "size": 208658
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/bg/grain.png",
+                            "path": "img/grain.png",
+                            "saved": true,
+                            "size": 22685
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/elements/icon-sprite1.1.png",
+                            "path": "img/icon-sprite1.1.png",
+                            "saved": true,
+                            "size": 554728
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/elements/clouds/clouds-back.png",
+                            "path": "img/clouds-back.png",
+                            "saved": true,
+                            "size": 7042
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/elements/clouds/clouds-mid.png",
+                            "path": "img/clouds-mid.png",
+                            "saved": true,
+                            "size": 6569
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/elements/clouds/clouds-fore.png",
+                            "path": "img/clouds-fore.png",
+                            "saved": true,
+                            "size": 6742
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/elements/borealis/borealis-back.png",
+                            "path": "img/borealis-back.png",
+                            "saved": true,
+                            "size": 190127
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/elements/borealis/borealis-mid.png",
+                            "path": "img/borealis-mid.png",
+                            "saved": true,
+                            "size": 150599
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/elements/borealis/borealis-fore.png",
+                            "path": "img/borealis-fore.png",
+                            "saved": true,
+                            "size": 197058
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/elements/meteor.png",
+                            "path": "img/meteor.png",
+                            "saved": true,
+                            "size": 15277
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/elements/sun.png",
+                            "path": "img/sun.png",
+                            "saved": true,
+                            "size": 344351
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/elements/asteroids/asteroid-fore.png",
+                            "path": "img/asteroid-fore.png",
+                            "saved": true,
+                            "size": 41736
+                        },
+                        {
+                            "url": "http://www.secaibi.com/howbigisspace/_/img/elements/asteroids/asteroid-back.png",
+                            "path": "img/asteroid-back.png",
+                            "saved": true,
+                            "size": 28573
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "alias": "www-secaibi-com-kc4w3acq",
+    "info": {
+        "remark": [],
+        "title": "天空有多高",
+        "domain": "www.secaibi.com",
+        "origin": "http://www.secaibi.com",
+        "ip": "116.62.131.122",
+        "main": "index.html",
+        "url": "http://www.secaibi.com/howbigisspace/",
+        "totalSize": "3.58 MB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "http://www.secaibi.com/howbigisspace/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "http://www.secaibi.com/howbigisspace/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx/1.20.1",
+                "date": "Mon, 30 Jan 2023 11:33:14 GMT",
+                "content-type": "text/html",
+                "content-length": "31782",
+                "last-modified": "Thu, 05 Jul 2018 06:43:36 GMT",
+                "connection": "close",
+                "etag": "\"5b3dbe18-7c26\"",
+                "expires": "Mon, 30 Jan 2023 23:33:14 GMT",
+                "cache-control": "max-age=43200",
+                "x-ua-compatible": "IE=Edge,chrome=1",
+                "accept-ranges": "bytes"
+            }
+        },
+        "time": {
+            "start": "2023-01-30T11:33:13.984Z",
+            "end": "2023-01-30T11:33:45.284Z"
+        }
+    },
+    "options": {
+        "url": "http://www.secaibi.com/howbigisspace/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
